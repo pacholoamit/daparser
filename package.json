@@ -1,11 +1,20 @@
 {
   "name": "daparser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parses numbers to strings",
   "main": "index.js",
+  "bin": "index.js",
   "scripts": {
     "test": "node index.js"
   },
   "author": "Pacholo Amit",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pacholoamit/daparser"
+  },
+  "bugs": {
+    "url": "https://github.com/pacholoamit/daparser/issues"
+  },
+  "homepage": "git+https://github.com/pacholoamit/daparser"
 }

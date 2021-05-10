@@ -1,7 +1,6 @@
 # Daparser
 
-<img src='https://img.shields.io/npm/l/daparser'>
-
+<img src='https://img.shields.io/npm/l/daparser'> 
 ## Parses numbers to strings
 
 This package just parses numbers to strings,
