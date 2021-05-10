@@ -12,7 +12,7 @@ Srsly, that's the only thing it does.
 
 - Require daparser, ` var something = require('daparser');`
 - Pass in numbers to the `.parse()` function.
-- I.E. `something.parser(123)`
+- I.E. `something.parse(123)`
 - ✨Magic ✨
 
 ## Installation
