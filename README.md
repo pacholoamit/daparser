@@ -1,6 +1,6 @@
 # Daparser
 
-<img src='https://img.shields.io/npm/l/daparser'> 
+<img src='https://img.shields.io/npm/l/daparser'>  <img src='https://img.shields.io/npm/dt/daparser'/>
 
 ## Parses numbers to strings
 
